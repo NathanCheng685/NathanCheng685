@@ -10,8 +10,8 @@ I sit at the intersection of **product** and **engineering** — I scope, design
 
 ### 🚧 What I'm working on
 
-**[Cited](https://yct3xd9c.insforge.site)** — AI-search citation intelligence ([source](https://github.com/ReddWu/Prefind))
-> Runs 30 buyer-intent questions across ChatGPT, Gemini, and You.com, then turns 90 answers and every citation into a practical channel playbook. Built for the 2026 Bay Builders Hackathon.
+**[SmartCited](https://smartcited.com)** — AI-visibility actions for local businesses ([demo](https://smartcited.com/#/scan/sample) · [Devpost](https://devpost.com/software/smartcited) · [source](https://github.com/ReddWu/Cited))
+> Submitted to OpenAI Build Week. Runs 10 leakage-checked local-discovery questions through OpenAI and Gemini, preserves citation evidence, and turns it into customer-authorized website, Yelp, and directory actions.
 
 **[mylit.net](https://github.com/iccontre/mylit.net)** — Sleep & productivity app, collaborating with [@iccontre](https://github.com/iccontre)
 > React Native + Expo Router. Onboarding, journaling, dream journal, morning intention, sleep check-in, weekly summary, and an awareness/quest pipeline. Currently shipping web build; iOS/Android next.
