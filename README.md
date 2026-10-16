@@ -5,6 +5,7 @@ A vibe coder who cares about user experience. I sit between **product** and **en
 - 🧭 PM thinking: user research, customer journeys, prioritization, written specs
 - 🛠️ Engineering hands: TypeScript / React / React Native / Python / C#, enough to prototype, debug, and ship real code
 - 🤝 What I like building: tools that help people understand themselves better (sleep, attention, personality) and small utilities that remove daily friction
+- 🧠 Research: computational cognition with neural networks and LLMs at HKU and UC Berkeley; third author on a [PNAS 2026 paper](https://doi.org/10.1073/pnas.2617358123)
 
 ---
 
@@ -44,6 +45,6 @@ Comfortable with: Claude Code, Codex, Cursor, Figma, Notion, Linear, Git, deploy
 
 - X: [@nathancheng685](https://x.com/nathancheng685)
 - Website: [nathanchengyi.com](https://nathanchengyi.com)
-- Email: `nathancheng685@gmail.com`
+- Email: `hi@nathanchengyi.com`
 
-<sub>Profile last updated September 2026</sub>
+<sub>Profile last updated October 2026</sub>
